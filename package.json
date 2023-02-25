@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/test-git/",
+    "build": "vite build --base=/test-git",
     "preview": "vite preview"
   },
   "devDependencies": {
@@ -18,3 +18,5 @@
     "vite-plugin-html-inject": "^1.0.1"
   }
 }
+
+
